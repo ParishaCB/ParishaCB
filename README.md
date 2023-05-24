@@ -14,11 +14,6 @@
 <a href="https://linkedin.com/in/parishab" target="_blank">
   <img src="https://github.com/ParishaCB/images/blob/main/images/linkedin.png" alt="linkedin-profile" height="30" width="30"/>
 </a>
-  &nbsp;
-<a href="https://codepen.io/parishacb" target="_blank">
-  <img src="https://github.com/ParishaCB/images/blob/main/images/codepen.png" alt="codepen-profile" height="30" width="30" />
-</a>
-
 <hr>
 
 ### Languages and Tools:
