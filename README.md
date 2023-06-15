@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Parisha!
 <p>
-  I'm a recent IT graduate and an aspiring frontend developer.<br>I love designing and developing for the web and learning about new programming languages.
+  I'm a recent IT graduate and an aspiring frontend web developer.<br>I love designing and developing for the web and learning about new programming languages.
 </p>
 
 <p align="center">
